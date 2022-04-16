@@ -1,1 +1,28 @@
-
+{
+  "country": [
+    {
+      "id": 1,
+      "country": "India",
+      "city": "Mumbai",
+      "population": "19,000,000"
+    },
+    {
+      "id": 2,
+      "country": "Srilanka",
+      "city": "Colombo",
+      "population": "5,600,000"
+    },
+    {
+      "country": "USA",
+      "city": "Chicago",
+      "population": "2,920,000",
+      "id": 3
+    },
+    {
+      "country": "India",
+      "city": "Patna",
+      "population": "20,000,000",
+      "id": 4
+    }
+  ]
+}
